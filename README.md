@@ -80,7 +80,7 @@
 
 ## 10. Enllaços adicionals
 
-  > no tinc cap enllaç adicional que vulgui compartir
+  > ```no tinc cap enllaç adicional que vulgui compartir```
 
 ---
 
