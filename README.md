@@ -28,16 +28,16 @@
 ## 4. Educació
 
 1. **ESO**
-  Institut Torrent de les Bruixes 
+  - Institut Torrent de les Bruixes 
 
 ---
 
 ## 5. Experiència laboral
 
 - **Empresa familiar**
-  Divanaity
-  *Gestió de vendes, re-stock de roba, atenció al client, gestió del re-stock de la pàgina web*
-  [Divanaity] (https://www.instagram.com/divanaity/)
+  - Divanaity
+  - *Gestió de vendes, re-stock de roba, atenció al client, gestió del re-stock de la pàgina web*
+  - [Divanaity] (https://www.instagram.com/divanaity/)
 
   ---
 
@@ -67,8 +67,8 @@
 
 ## 8. Xarxes socials
 
-- [Instagram]: (https://www.instagram.com/aitoxx_.xo/)
-- [Github]: (https://github.com/amartra7)
+- [Instagram] (https://www.instagram.com/aitoxx_.xo/)
+- [Github] (https://github.com/amartra7)
 
 ---
 
