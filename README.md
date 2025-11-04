@@ -35,7 +35,7 @@
 ## 5. Experiència laboral
 
 - **Empresa familiar**
-  - Divanaity
+  - ```Divanaity```
   - *Gestió de vendes, re-stock de roba, atenció al client, gestió del re-stock de la pàgina web*
   - [Divanaity] (https://www.instagram.com/divanaity/)
 
@@ -80,7 +80,7 @@
 
 ## 10. Enllaços adicionals
 
-  > ```no tinc cap enllaç adicional que vulgui compartir```
+  > no tinc cap enllaç adicional que vulgui compartir
 
 ---
 
